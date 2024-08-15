@@ -52,7 +52,6 @@ setup(
     author="Phillip Jerome Yosief",
     author_email="phillip.yosief@outlook.com",
     install_requires=[
-
     ],
     extras_require={
         "dev": [
